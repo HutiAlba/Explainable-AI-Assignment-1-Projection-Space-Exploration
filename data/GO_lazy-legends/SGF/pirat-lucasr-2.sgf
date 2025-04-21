@@ -1,0 +1,205 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[3x10 byo-yomi]
+PW[pirat]PB[lucasr]WR[6d]BR[5d]DT[2024-10-26]PC[The KGS Go Server at http://www.gokgs.com/]C[lucasr [5d\]: gg
+pirat [6d\]: gg
+]RE[W+Resign]
+;B[pp]BL[10]OB[3]
+;W[dd]WL[10]OW[3]
+;B[dq]BL[10]OB[3]
+;W[qd]WL[10]OW[3]
+;B[cf]BL[10]OB[3]
+;W[fc]WL[10]OW[3]
+;B[cj]BL[10]OB[3]
+;W[qn]WL[10]OW[3]
+;B[pn]BL[10]OB[3]
+;W[pm]WL[10]OW[3]
+;B[on]BL[10]OB[3]
+;W[qo]WL[10]OW[3]
+;B[qp]BL[10]OB[3]
+;W[om]WL[10]OW[3]
+;B[nm]BL[10]OB[3]
+;W[nl]WL[10]OW[3]
+;B[ml]BL[10]OB[3]
+;W[ok]WL[10]OW[3]
+;B[nk]BL[10]OB[3]
+;W[ol]WL[10]OW[3]
+;B[mm]BL[10]OB[3]
+;W[mk]WL[10]OW[3]
+;B[nj]BL[10]OB[3]
+;W[pi]WL[10]OW[3]
+;B[nh]BL[10]OB[3]
+;W[lk]WL[10]OW[3]
+;B[li]BL[10]OB[3]
+;W[jk]WL[10]OW[3]
+;B[pg]BL[10]OB[3]
+;W[qg]WL[10]OW[3]
+;B[pj]BL[10]OB[3]
+;W[oj]WL[10]OW[3]
+;B[oi]BL[10]OB[3]
+;W[qi]WL[10]OW[3]
+;B[qf]BL[10]OB[3]
+;W[oh]WL[10]OW[3]
+;B[ni]BL[10]OB[3]
+;W[og]WL[10]OW[3]
+;B[qj]BL[10]OB[2]
+;W[ql]WL[10]OW[3]
+;B[pf]BL[10]OB[2]
+;W[ph]WL[10]OW[3]C[lucasr [5d\]: what am i doing
+]
+;B[ij]BL[22.179]C[pirat [6d\]: idk
+]
+;W[jj]WL[10]OW[3]
+;B[ji]BL[20.692]
+;W[ii]WL[10]OW[3]
+;B[kj]BL[20.066]
+;W[kk]WL[10]OW[3]
+;B[hj]BL[19.219]
+;W[jh]WL[10]OW[3]
+;B[ki]BL[17.809]
+;W[hi]WL[10]OW[3]
+;B[il]BL[15.834]
+;W[km]WL[10]OW[3]
+;B[in]BL[11.376]
+;W[ko]WL[10]OW[3]
+;B[ln]BL[8.457]
+;W[kn]WL[10]OW[3]
+;B[ip]BL[7.867]
+;W[lg]WL[10]OW[3]
+;B[mf]BL[4.219]
+;W[of]WL[10]OW[3]
+;B[ih]BL[10]OB[3]
+;W[jg]WL[10]OW[3]
+;B[ig]BL[10]OB[3]
+;W[gi]WL[10]OW[3]
+;B[ng]BL[10]OB[3]
+;W[ke]WL[10]OW[3]
+;B[oe]BL[10]OB[3]
+;W[pe]WL[10]OW[3]
+;B[od]BL[10]OB[3]
+;W[nf]WL[10]OW[3]
+;B[ne]BL[10]OB[3]
+;W[rf]WL[10]OW[3]
+;B[mg]BL[10]OB[3]
+;W[md]WL[10]OW[3]
+;B[ld]BL[10]OB[3]
+;W[le]WL[10]OW[3]
+;B[me]BL[10]OB[3]
+;W[lc]WL[10]OW[3]
+;B[kq]BL[10]OB[3]
+;W[nc]WL[10]OW[3]
+;B[qc]BL[10]OB[3]
+;W[rc]WL[10]OW[3]
+;B[pd]BL[10]OB[3]
+;W[qe]WL[10]OW[3]
+;B[pb]BL[10]OB[3]
+;W[oc]WL[10]OW[3]
+;B[pc]BL[10]OB[3]
+;W[rb]WL[10]OW[3]
+;B[lo]BL[10]OB[3]
+;W[lh]WL[10]OW[3]
+;B[kl]BL[10]OB[3]
+;W[jl]WL[10]OW[3]
+;B[im]BL[10]OB[3]
+;W[mi]WL[10]OW[3]
+;B[fh]BL[10]OB[3]
+;W[lj]WL[10]OW[3]C[lucasr [5d\]: tx
+pirat [6d\]: lol
+pirat [6d\]: ty
+lucasr [5d\]: im 3d level now
+pirat [6d\]: sad news(
+lucasr [5d\]: too weak
+pirat [6d\]: What's wrong with your game?
+lucasr [5d\]: idk
+lucasr [5d\]: jsut not playing well
+lucasr [5d\]: against weaker players its fine
+pirat [6d\]: I think it will pass over time
+lucasr [5d\]: but against strong 5d/6d i will die easily
+lucasr [5d\]: yes
+lucasr [5d\]: sometimes i play really well like 6d level
+lucasr [5d\]: and sometimes i play like 3/4d level
+pirat [6d\]: You just need to wait until this period has passed
+lucasr [5d\]: yes
+lucasr [5d\]: now u can give me 2 handi easily in blitz
+pirat [6d\]: big instability
+lucasr [5d\]: yes:(
+lucasr [5d\]: its also because of my play style
+lucasr [5d\]: when i count read precisely my strength drops alot
+pirat [6d\]: I do not know why my rating does not change, lately I have been winning everything
+lucasr [5d\]: in fighting 1 wrong move is big differeence
+lucasr [5d\]: u paly too many games
+lucasr [5d\]: its hard for your rank to increase
+pirat [6d\]: when?
+lucasr [5d\]: if u create new account u will increasse fast
+lucasr [5d\]: the more games u play the less each game means
+pirat [6d\]: Unfortunately, many 8 dan refuse to play with me
+lucasr [5d\]: when u get to 7d they will play u
+lucasr [5d\]: i have to wait till this period pass
+lucasr [5d\]: my calculation now is inaccurate
+pirat [6d\]: I know, that's why I want to become one as soon as possible
+lucasr [5d\]: when im in good form i can win most 5ds in fighting
+pirat [6d\]: yes
+lucasr [5d\]: but now my calculation is not accurate 
+lucasr [5d\]: and too many overplays
+lucasr [5d\]: :(
+pirat [6d\]: Yes, it shows in your game
+lucasr [5d\]: i think have to stop playing blitz for a whiel
+lucasr [5d\]: for a while
+lucasr [5d\]: especially against lower dans
+pirat [6d\]: And when will you start?
+lucasr [5d\]: i will top playing blitz for a while
+lucasr [5d\]: will play slightly slower
+lucasr [5d\]: stop playing blitz*
+lucasr [5d\]: so slowest 20 sec/move
+pirat [6d\]: This is a good option for you
+lucasr [5d\]: 20 sec can at leasgt count
+lucasr [5d\]: 10 sec is mostly feel
+pirat [6d\]: It can be even slower
+lucasr [5d\]: maybe 30 sec 
+pirat [6d\]: yes
+pirat [6d\]: it better
+lucasr [5d\]: slower than that its really hard to find game on kgs haha
+pirat [6d\]: haha
+pirat [6d\]: yes
+lucasr [5d\]: u know alldur?
+pirat [6d\]: yes
+lucasr [5d\]: idk why i always lose to him
+lucasr [5d\]: i feel my fighting is stronger than his but i always lose him for some reason
+pirat [6d\]: I also lost to him recently
+lucasr [5d\]: u are stronger than him im sure
+lucasr [5d\]: his style is wierd
+pirat [6d\]: I would have won if we had played with komi
+lucasr [5d\]: almost all of my games komi doesnt matter haha
+pirat [6d\]: i lose 5,5
+lucasr [5d\]: its either win big or lose big
+pirat [6d\]: haha
+lucasr [5d\]: out of 100 games maybe 5 of my games are within komi
+lucasr [5d\]: HAHAHA
+pirat [6d\]: It sounds funny, but considering your level of play, it's sad right now.
+lucasr [5d\]: what do u mean?
+lucasr [5d\]: like for 5d level?
+pirat [6d\]: about the fact that usually games end with admitting your defeat to someone, but due to your score, they end with your defeat now
+pirat [6d\]: That's what I mean.
+lucasr [5d\]: i dont understand what u are saying
+pirat [6d\]: oh
+lucasr [5d\]: are u saying that usually i win other players , but now im losing to the same players?
+pirat [6d\]: idk how to say 
+pirat [6d\]: yes
+pirat [6d\]: That's what I mean.
+lucasr [5d\]: yeah
+lucasr [5d\]: everyone has periods where they play badly
+lucasr [5d\]: but i think even if im playing well u are stil stronger than me
+lucasr [5d\]: for slow game
+pirat [6d\]: Yes, but there are also periods when you play very well.
+lucasr [5d\]: if im playing well my fighting is strong
+pirat [6d\]: maybe
+lucasr [5d\]: but my endgame and opening are weak
+lucasr [5d\]: actually i dont know alot of josekis
+lucasr [5d\]: i like to just fight straight away
+pirat [6d\]: maybe it is necessary to correct these problems?
+lucasr [5d\]: the josekis take so long to learn
+pirat [6d\]: haha
+lucasr [5d\]: for the complicated ones
+lucasr [5d\]: theres one that gaopo always plays
+pirat [6d\]: i too like that 
+lucasr [5d\]: and i get tricked by him alot
+])

@@ -1,0 +1,23 @@
+name: xai_proj_space
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - notebook
+  - jupyterlab
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - umap-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - opentsne
+  - gym
+  - openpyxl
+#  - pip:
+#    - git+https://github.com/dvmarkusvogl/gym-2048.git
